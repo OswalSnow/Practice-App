@@ -12,7 +12,10 @@ class ContactoController extends Controller
      */
     public function index()
     {
-        //
+        //return view('aca la vista')
+        // ->with([
+        //  
+        //])
     }
 
     /**
